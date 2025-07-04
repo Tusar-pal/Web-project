@@ -1,2 +1,2 @@
-# animated-project--HTML-CSS
+# Web-project
 animated project using HTML-CSS-JS
